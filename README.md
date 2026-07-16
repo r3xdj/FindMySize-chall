@@ -8,4 +8,4 @@ FIND MY SIZE<br/>
 類別：Forensics<br/>
 說明：我收到一個奇怪的檔案，你可以幫我看看這是怎麼回事嗎？
 
-Official Writeup：[Find My Size Official Writeup | R3X's Blog](https://r3xdj.github.io/blog/2026/05/28/Find-My-Size-Official-Writeup/)
+Official Writeup：[Find My Size Official Writeup | R3X's Blog](https://r3xdj.pages.dev/2026/05/28/Find-My-Size-Official-Writeup/)
